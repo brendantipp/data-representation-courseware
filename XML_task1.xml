@@ -22,31 +22,3 @@
 		<Author>Brendan Ryan</Author>
 	</Book> 
 </Library>
-
-<?xml version="1.0" encoding="UTF-8"?> 
-<Library> 
-	<Technical>
-		<Book> 
-			<ISBN>1234578</ISBN>
-			<Title>Learn Python in one Day</Title>
-			<Author>Roy Keane</Author>
-		</Book>
-		<Book> 
-			<ISBN>12125454</ISBN>
-			<Title>Python for Dummies</Title>
-			<Author>Packie Bonner</Author>
-		</Book>
-	</Technical> 
-	<Cookery>
-		<Book> 	
-			<ISBN>12125454df</ISBN>
-			<Title>5 minute meals</Title>
-			<Author>My Wife</Author>
-		</Book> 
-		<Book> 	
-			<ISBN>4546989898</ISBN>
-			<Title>Cooking for Dummies</Title>
-			<Author>Brendan Ryan</Author>
-		</Book>
-	<Cookery>	 
-</Library>
